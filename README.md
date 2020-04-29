@@ -57,3 +57,7 @@
 ![Demonstration](https://github.com/jeffersonvidal/3d-social-buttons/blob/master/screenshots/demo.gif?raw=true)
 
 ![Screen1](https://github.com/jeffersonvidal/3d-social-buttons/blob/master/screenshots/screen1.PNG?raw=true)
+
+---
+
+Made with ♥ by [Jefferson Vidal](https://github.com/jeffersonvidal)
